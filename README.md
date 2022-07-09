@@ -1,5 +1,7 @@
 # HP ZBook G5 laptop stand/dock
 
+> ✨ Find this model on `Printables.com` [here](https://www.printables.com/model/238854-hp-zbook-studio-g5-laptop-standdock)
+
 ![laptop-insertion](media/laptop-insertion.webp)
 
 3D printable files for a simple stand/dock for the `HP ZBook Studio G5` series (which includes the [normal G5](https://support.hp.com/nl-nl/product/hp-zbook-studio-g5-mobile-workstation/18865653/manuals) and the [G5 x360](https://support.hp.com/nl-nl/drivers/selfservice/hp-zbook-studio-x360-g5-convertible-workstation/20075826)). The stand is meant to be used with the laptop in docked position. That is, for use cases where you use the laptop closed with external monitor and keyboard etc.
